@@ -127,7 +127,7 @@ sidebar:
     show_common: true # whether to show common sidebar, ignored on mobile devices
 
 social:
-  email: leichii.art@gmail.com
+  email: mailto:leichii.art@gmail.com
   # github: https://github.com/yourname
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
@@ -509,7 +509,7 @@ preloader:
     en: Loading...
     ja: 少女祈祷中...
     pt-BR: Carregando...
-  icon: /icon/logo.png # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
+  icon: icon/logo.png # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
   rotate: true # whether to rotate the icon
 
 # see https://github.com/D-Sketon/aos.js
